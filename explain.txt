@@ -1,0 +1,19 @@
+2 main folders were created
+1 for the components and another special for each page
+similar to next js
+
+
+the styles have a comment describing 
+the begining and end of a particular js file
+instead of scoping
+
+
+Services.js is the component right underneath 
+the hero section ( the first top face of a landing page )
+
+
+Adcopy.js is the description text on the hero section
+( advertise copy text )
+
+
+react icons is the extra installed package
